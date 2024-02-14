@@ -7,3 +7,7 @@ This README will take into account my contributions when they aren't taking in b
 2)Create react counter 
 URL: https://github.com/4GeeksAcademy/AltaciosTheDev-ReactCounter
 DATE: 12/02/24
+
+3)Create react traffic light
+URL: https://github.com/4GeeksAcademy/AltaciosTheDev-ReactTrafficLight
+DATE: 14/02/24
